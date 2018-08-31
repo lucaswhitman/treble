@@ -15,14 +15,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/levelsbeyond/treble.git"
+        "url": "git+https://github.com/meetmindful/treble.git"
     },
     "author": "Bailey Everts",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/levelsbeyond/treble/issues"
+        "url": "https://github.com/meetmindful/treble/issues"
     },
-    "homepage": "https://github.com/levelsbeyond/treble",
+    "homepage": "https://github.com/meetmindful/treble",
     "devDependencies": {
         "@commitlint/config-angular": "^6.1.3",
         "@commitlint/prompt-cli": "^6.1.3",
